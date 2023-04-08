@@ -3,7 +3,7 @@
 //  XCUITests
 //
 //  Created by yuanxuehu on 2018/5/30.
-//  Copyright © 2018年 TigeyHu. All rights reserved.
+//  Copyright © 2018年 TigeHu. All rights reserved.
 //
 
 
